@@ -1,6 +1,6 @@
 {
-	"name": "weedb",
-	"version": "0.0.0-development",
+	"name": "teenydb",
+	"version": "0.0.0",
 	"description": "A tiny extensible json storage database",
 	"main": "index.js",
 	"types": "dist/index.d.ts",
