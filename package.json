@@ -18,14 +18,14 @@
 	},
 	"repository": {
 		"type": "git",
-		"url": "https://github.com/jferrl/weedb.git"
+		"url": "https://github.com/jferrl/teenydb.git"
 	},
 	"author": "jferrl",
 	"license": "MIT",
 	"bugs": {
-		"url": "https://github.com/jferrl/weedb/issues"
+		"url": "https://github.com/jferrl/teenydb/issues"
 	},
-	"homepage": "https://github.com/jferrl/weedb#readme",
+	"homepage": "https://github.com/jferrl/teenydb#readme",
 	"devDependencies": {
 		"@types/jest": "^27.0.3",
 		"@types/node": "14.14.31",

@@ -1,2 +1,3 @@
-# weedb
-A tiny extensible  json storage database
+# teenydb
+
+A tiny extensible json storage database
