@@ -1,0 +1,11 @@
+{
+	"extends": "./tsconfig.json",
+	"compilerOptions": {
+		"declaration": true,
+		"rootDir": ".",
+		"removeComments": true,
+		"outDir": "./dist"
+	},
+	"lib": ["ES2020"],
+	"include": ["lib/**/*"]
+}
