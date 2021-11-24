@@ -2,9 +2,12 @@
 	"extends": "./tsconfig.json",
 	"compilerOptions": {
 		"declaration": true,
-		"rootDir": ".",
 		"removeComments": true,
-		"outDir": "./dist"
+		"outDir": "./dist",
+		"baseUrl": ".",
+		"paths": {
+			"*": ["node_modules/*", "lib/@types/*"]
+		}
 	},
 	"lib": ["ES2020"],
 	"include": ["lib/**/*"]
